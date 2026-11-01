@@ -1,0 +1,8 @@
+.venv/
+gguf/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# ссылки на исходные объявления (только локально)
+*.local.json
